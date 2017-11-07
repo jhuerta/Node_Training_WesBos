@@ -1,0 +1,5 @@
+- Node 7.7 or higher (to make use of sync and await)
+- In Sublime, install:
+	-- JavaScript Completions
+	-- Babel (JS Syntax Highlighter)
+	-- Jade (HTML templating)
