@@ -3,3 +3,12 @@
 	-- JavaScript Completions
 	-- Babel (JS Syntax Highlighter)
 	-- Jade (HTML templating)
+- Create MongoDB database
+	- Self hosted
+	- External: https://mlab.com
+	- Mongo DB GUI (to test existing db): mongodb compass
+	- mongod --dbpath E:\Databases\MongoDB
+	- variables.env will host configuration variables
+	- require('dotenv').config to load variables.env into process.env
+	- npm start (having an start script in package.json)
+
