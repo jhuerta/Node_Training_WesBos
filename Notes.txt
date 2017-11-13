@@ -8,7 +8,11 @@
 	- External: https://mlab.com
 	- Mongo DB GUI (to test existing db): mongodb compass
 	- mongod --dbpath E:\Databases\MongoDB
-	- variables.env will host configuration variables
-	- require('dotenv').config to load variables.env into process.env
-	- npm start (having an start script in package.json)
 
+- Starting an app:
+	- use express framework (npm install express --save)
+	- use mongoose to dela with db
+	- use an start.js for setting up staff
+	- require('dotenv').config to load variables.env into process.env
+		- variables.env will host configuration variables
+	- npm start (having an start script in package.json)
