@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+html(lang="en")
+head
+  meta(charset="UTF-8")
+  title Document
+body
+  
+div
+  p Hello World from Pug!
+  div.class_one.class_two some info here
+  div#someid other info
+  img(src='thisisthesource.jpg' alt='thisisthealt')
+  
+
+- const jsVariable = 'one' + '+' + 'three';
+- const otherJsVar = ['a','b','c','d'].join('`${otherJsVar}`');
+b 
+  | text goes here
+  em this is other text
+
+div
+  | This variable with value #{variableValue} is coming from code
+
+div(src=`img__${img_value} ${jsVariable} ${otherJsVar}`) The image value is #{img_value}
+  
+
+p.number_1
+p.number_2
+p.number_3
+p.number_4
+p.number_5
+p.number_6
+p.number_7
+p.number_8
+p.number_9
+p.number_10
