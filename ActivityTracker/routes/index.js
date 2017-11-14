@@ -22,15 +22,11 @@ router.get('/render', (req, res) => {
                 'img_value':  'superimage.jpg'});
 });
 
-router.get('/usingextend', (req, res) => {
-  console.log(Date.now().getDay + ' From render route' );
-  res.render(
-              'usingextend',
-              { 'variableValue': 'some value coming from server side',
-                'img_value':  'superimage.jpg',
-                'title': 'SNT'
-              });
-});
+const venueController = require('../controllers/venueController');
+
+router.get('/usingextend', venueController.usingExtendPage);
+
+router.get('/venues/:id', venueController.GetFirstVenue);
 
 router.get('/queryandparams/:cityname/:citycountry', (req, res) => {
   var params = req.params;
