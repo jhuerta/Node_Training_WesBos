@@ -27,7 +27,9 @@ router.get('/usingextend', (req, res) => {
   res.render(
               'usingextend',
               { 'variableValue': 'some value coming from server side',
-                'img_value':  'superimage.jpg'});
+                'img_value':  'superimage.jpg',
+                'title': 'SNT'
+              });
 });
 
 router.get('/queryandparams/:cityname/:citycountry', (req, res) => {

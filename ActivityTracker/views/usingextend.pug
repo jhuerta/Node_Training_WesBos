@@ -2,3 +2,5 @@ extends layout
 
 block content
   b I'm putting this content inside the layout
+  div
+    | Today is #{h.moment().endOf('day').fromNow()}
