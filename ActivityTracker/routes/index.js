@@ -26,7 +26,10 @@ const venueController = require('../controllers/venueController');
 
 router.get('/usingextend', venueController.usingExtendPage);
 
-router.get('/venues/:id', venueController.GetFirstVenue);
+router.get('/venues/:id',
+  venueController.GetVenueName,
+  venueController.FormatVenueName,
+  venueController.DisplayVenueName);
 
 router.get('/queryandparams/:cityname/:citycountry', (req, res) => {
   var params = req.params;
