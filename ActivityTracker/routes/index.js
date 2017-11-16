@@ -9,6 +9,12 @@ router.get('/', (req, res) => {
   res.send(helloWorld);
 });
 
+const eventController = require('../controllers/eventController');
+router.get('/event/:id',
+  eventController.GetEvent);
+
+/*--------------------------------- TEST ROUTES ---------------------------------*/
+
 router.get('/cityapi', (req, res) => {
   const bernCity = {city: 'Bern',population: 125000,country: 'Switzerland'};
   res.json(bernCity);
@@ -43,5 +49,10 @@ router.get('/queryandparams/:cityname/:citycountry', (req, res) => {
   				};
   res.json(newCity);
 });
+
+/*--------------------------------- ---------------------------------*/
+/*--------------------------------- ---------------------------------*/
+/*--------------------------------- ---------------------------------*/
+/*--------------------------------- ---------------------------------*/
 
 module.exports = router;

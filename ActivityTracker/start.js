@@ -11,6 +11,7 @@ mongoose.connection.on('error', (err) => {
 });
 
 // READY?! Let's go!
+require('./models/Event');
 
 // Start our app!
 const app = require('./app');

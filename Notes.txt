@@ -3,6 +3,7 @@
 	-- JavaScript Completions
 	-- Babel (JS Syntax Highlighter)
 	-- Jade (HTML templating)
+
 - Create MongoDB database
 	- Self hosted
 	- External: https://mlab.com

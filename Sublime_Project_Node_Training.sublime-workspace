@@ -1,0 +1,529 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"contr",
+				"venueController"
+			],
+			[
+				"gety",
+				"getDay\t(): int Date"
+			],
+			[
+				"cat",
+				"cathErrors"
+			],
+			[
+				"info",
+				"infoJson"
+			],
+			[
+				"people",
+				"peopleIterator"
+			],
+			[
+				"follo",
+				"followerInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ActivityTracker/models/Event.js",
+			"settings":
+			{
+				"buffer_size": 361,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Sublime_Project_Node_Training.sublime-project",
+			"settings":
+			{
+				"buffer_size": 115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "eslin",
+		"selected_items":
+		[
+			[
+				"eslin",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rmeove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"eslint",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublimelinter ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ori cr pa r",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"npm",
+				"Set Syntax: NPM JSON"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"color pic",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"insall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"se sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set sy  css",
+				"Set Syntax: CSS"
+			],
+			[
+				"s s html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ori zoo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"ori clon ri",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"de pa le",
+				"Origami: Destroy Pane on the Left"
+			],
+			[
+				"de pa ri",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"cre wi ",
+				"Origami: Create Pane with File Below"
+			],
+			[
+				"fo pa le",
+				"Origami: Focus on Pane on the Left"
+			],
+			[
+				"des p b",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"cr pa le",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"cr pa be",
+				"Origami: Create Pane Below"
+			],
+			[
+				"or cre pa ri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"insall p",
+				"Package Control: Install Package"
+			],
+			[
+				"sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowerc",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"html pre",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"materi",
+				"Activate Materialize Theme"
+			],
+			[
+				"materia",
+				"Activate Materialize Theme"
+			],
+			[
+				"intall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 426.0
+	},
+	"console":
+	{
+		"height": 197.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos"
+	],
+	"file_history":
+	[
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/models/Event.js",
+		"/C/Users/huertaj/AppData/Roaming/Sublime Text 3/Packages/ESLint-Formatter/ESLint-Formatter.sublime-settings",
+		"/C/Users/huertaj/AppData/Roaming/Sublime Text 3/Packages/User/ESLint-Formatter.sublime-settings",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/package-lock.json",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/controllers/venueController.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/helpers.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/start.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/helpers.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/views/layout.pug",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/views/usingextend.pug",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/views/venue.pug",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/variables.env",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/handlers/errorHandlers.js",
+		"/E/TFS/UPUWeb/DevOps/Docs/utils and commands.txt",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/routes/index.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/package.json",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/controllers/venueController.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/app.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/public/dist/App.bundle.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/views/helloworld.pug",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/.gitignore",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/app.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/views/layout.pug",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/start.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/public/javascripts/activitytracker-app.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/public/javascripts/modules/bling.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/ActivityTracker/webpack.config.js",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/routes/index.js",
+		"/C/Users/huertaj/AppData/Roaming/npm-cache/_logs/2017-11-13T09_17_45_980Z-debug.log",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/.gitignore",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/package.json",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/dang-thats-delicious/variables.env",
+		"/E/MyStuff/Personal/Trainings/Node_Training_WesBos/Config_Not_Committed.txt",
+		"/E/TFS/UPUWeb/Resources/Packages/gulpfile.js",
+		"/C/Users/huertaj/.hyper.js",
+		"/C/Users/huertaj/AppData/Local/lxss/home/jhuerta/.bashrc",
+		"/C/Users/huertaj/Desktop/bashrc_backup.sh",
+		"/C/Users/huertaj/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/C/Users/huertaj/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/Default (Windows).sublime-keymap",
+		"/C/Users/huertaj/Desktop/test2.css",
+		"/C/Users/huertaj/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/E/MyStuff/Personal/Trainings/Sublime/.gitignore",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Notes/Notes_Summary.txt",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/70bis.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/69_70.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/69bis.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/.git/hooks/commit-msg.sh",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/30.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/.eslintrc",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/30bis.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/01.js",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Notes/Notes.txt",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/77.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/72.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/71.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/66.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/67.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/68.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/69.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/62.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/61.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/11.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/58.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/56.html",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/55.html",
+		"/C/Users/huertaj/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/E/MyStuff/Personal/Trainings/ES6_Training_WesBos/Exercises/52.html",
+		"/C/Users/huertaj/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/huertaj/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 140.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ActivityTracker/models/Event.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Sublime_Project_Node_Training.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Sublime_Project_Node_Training.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
